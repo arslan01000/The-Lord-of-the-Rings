@@ -1,4 +1,4 @@
-My Django Web Project
+#My Django Web Project
 This is a beginner-friendly project developed as part of an online Python Django web development course. It includes basic implementation of Django along with introductory HTML and CSS.
 
 About the Project
